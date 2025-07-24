@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center mb-4">
               <img 
-                src="/public/Screenshot_2025-07-21-13-10-38-332_com.google.android.apps.docs.editors.slides-edit.jpg" 
+                src="/Screenshot_2025-07-21-13-10-38-332_com.google.android.apps.docs.editors.slides-edit.jpg" 
                 alt="Jiang Street" 
                 className="h-8 w-auto"
               />
