@@ -13,7 +13,7 @@ export default function Header({ isMenuOpen, setIsMenuOpen }: HeaderProps) {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <img 
-              src="/public/Screenshot_2025-07-21-13-10-38-332_com.google.android.apps.docs.editors.slides-edit.jpg" 
+              src="/public/logojiangstreet.jpg" 
               alt="Jiang Street" 
               className="h-8 w-auto"
             />
