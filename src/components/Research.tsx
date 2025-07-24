@@ -63,7 +63,7 @@ export default function Research() {
               Vision
             </h3>
             <p className="text-lg text-gray-700 leading-relaxed">
-              At Jiang Street, we operate as a research lab with trading bots attached to it. Our team of quantitative researchers, data scientists, and engineers work together to push the boundaries of what's possible in algorithmic trading. We believe that the future of quantitative trading lies in the convergence of reinforcement learning, large language models, and decentralized finance.
+              At Jiang Street, we operate as a research lab with trading bots attached to it. Our team of quantitative researchers, data scientists, and engineers work together to push the boundaries of what's possible in algorithmic trading. We believe that the future of quantitative trading lies in the convergence of Artificial Intelligence and Blockchain technologies, especially reinforcement learning, large language models, and decentralized finance.
             </p>
           </div>
         </div>
