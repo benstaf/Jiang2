@@ -13,7 +13,7 @@ export default function Header({ isMenuOpen, setIsMenuOpen }: HeaderProps) {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <img 
-              src="/public/logojiangstreet.jpg" 
+              src="/logojiangstreet.jpg" 
               alt="Jiang Street" 
               className="h-8 w-auto"
             />
